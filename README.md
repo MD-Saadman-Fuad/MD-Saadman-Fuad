@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm MD. Saadman Fuad</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-saadman-fuad&label=Profile%20views&color=0e75b6&style=flat" alt="md-saadman-fuad" /> </p>
+
 - 🌱 I’m currently learning **PHP, Laravel And Assembly**
 
 - 💬 Ask me about **Python, PHP, Arduino Sketch**
