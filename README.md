@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is MD. Saadman Fuad. <br>I'm currently pursuing my Bachelors in Computer Science and Engineering at Brac University. <br>You can ask me about Python, MySQL, PHP, and Arduino. <br>Currently learning Laravel, Assembly (Basic). <br>Next goal: Golang and React, Followed by Java <br>Interested in exploring the world of ML and Data Science.
+Hi, my name is MD. Saadman Fuad. <br>I'm currently pursuing my Bachelors in Computer Science and Engineering at Brac University. <br>You can ask me about Python, MySQL, PHP, and Arduino. <br>Currently learning Javascript and C. <br>Next goal: Java and MongoDB, Followed by Java Frameworks (Springboot)<br>Interested in exploring the world of ML and AI.
 
 
 ## 🌐 Socials:
